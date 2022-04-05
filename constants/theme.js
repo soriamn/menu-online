@@ -8,6 +8,10 @@ const theme = extendTheme({
     LightBlue: "#B5BAD0",
     White: "#E0E0E2",
   },
+  fonts: {
+    heading: "Cunia, sans-serif",
+    body: "Cunia, sans-serif",
+  },
 });
 
 export default theme;
